@@ -1,0 +1,14 @@
+---
+:id: 114746734
+:submitters:
+- :name: Abraham Erez Rosloff
+  :email: arosloff@stanford.edu
+- :name: Ananya Karthik
+  :email: ananya23@stanford.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-03 03:48:39.537958000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-02 19:48:39.537958000 Z
+:status: processed
+:score: 55.0
